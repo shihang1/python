@@ -1,11 +1,2 @@
-#!/bin/bash
-date2=`date +%Y%m%d`
-dirname2=${date2}
-#生成文件路径
-dirpath2="/pgdb/test/dashuju/xmlfile"
-mkdir ${dirpath2}/${dirname2}
---------------
 
---------------
-
---------------
+------222-------
