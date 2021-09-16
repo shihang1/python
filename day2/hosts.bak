@@ -1,0 +1,10 @@
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+
+This is a test  node1
+
+192.168.26.2  node2
+
+192.168.26.3  node3
+
+192.168.26.4  node4
