@@ -16,14 +16,6 @@ last line!'''
 
 #print(info)
 
-name = input("名字：")
-age = input("年龄：")
-job = input("工作：")
 
-info = '''
---------info of %s ---------
-name: %s
-age: %s
-job: %s
-''' %(name,name,age,job)
-print(info)
+
+#utf-8是unioncode的扩展集，unioncode中英文占一个字节，中文占三个字节

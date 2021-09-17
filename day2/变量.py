@@ -18,9 +18,11 @@ def change_name(hah):
     print("before name :",name)
     print(test[2])
     print("after name :",name)
+    return 0,2
 #列表、字典、集合、元组等复杂的都是可以在函数内更改全局变量的
 #只有字符串、整数不能修改
 name = 'fangming'
-change_name(name)
+a=change_name(name)
 print(name)
 print(test[2])
+print(a)

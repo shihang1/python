@@ -1,0 +1,2 @@
+1、字符集  utf-8  unioncode   gb2312  gbk
+2、先decode再encode，字符编码转换必须通过unioncode
