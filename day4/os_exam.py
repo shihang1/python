@@ -7,9 +7,9 @@ print('分隔符'.center(50,'-'))
 print(os.getcwd()) #获取当前工作目录，即当前python脚本工作的目录路径
 print('分隔符'.center(50,'-'))
 
-os.chdir("C:\\Users\\A\\PycharmProjects\\python\\day3")  #改变当前目录方法一
+os.chdir("C:\\Users\\小球\\PycharmProjects\\test\\day3")  #改变当前目录方法一
 print(os.getcwd())
-os.chdir(r"C:\Users\A\PycharmProjects\python\day2")  #改变当前目录方法二
+os.chdir(r"C:\Users\小球\PycharmProjects\test\day2")  #改变当前目录方法二
 print(os.getcwd())
 print('分隔符'.center(50,'-'))
 
